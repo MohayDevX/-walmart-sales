@@ -1,2 +1,25 @@
-# -walmart-sales
-Walmart Sales Analysis - تحليل بيانات مبيعات وولمارت باستخدام Python و Power BI
+# 🔴 Walmart Sales Analysis
+---
+
+## 📊 نظرة عامة على المشروع
+تحليل بيانات مبيعات شركة وولمارت باستخدام Python لتنظيف وتحليل البيانات، و Power BI لبناء Dashboard تفاعلي يستخرج أهم الـ Insights اللي تساعد في اتخاذ القرار.
+
+### 🛠️ الأدوات المستخدمة:
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn
+- **Power BI**: للـ Data Visualization والـ Dashboard
+- **Excel**: للمراجعة الأولية للبيانات
+
+### 📈 أهم النتائج:
+1. تحديد أعلى الفروع مبيعاً
+2. تحليل اتجاه المبيعات حسب الشهور والمواسم  
+3. معرفة المنتجات الأكثر ربحية
+4. تحليل سلوك العملاء وطرق الدفع
+
+### 🖼️ Dashboard
+![Walmart Dashboard](dashboard.png)
+
+### 🔗 لينك المشروع على لينكد إن:
+[اضغط هنا لمشاهدة البوست](حط_لينك_البوست_بتاعك_هنا)
+
+---
+**Mohamed Hay** | Data Analyst
