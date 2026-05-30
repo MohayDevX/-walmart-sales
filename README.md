@@ -15,8 +15,13 @@
 3. معرفة المنتجات الأكثر ربحية
 4. تحليل سلوك العملاء وطرق الدفع
 
-### 🖼️ Dashboard
-![Walmart Dashboard](dashboard.png)
+18  ### 📊 Dashboard
+19  ![Walmart Dashboard](dashboard.png)
+20  
+21  **Key Insights:** Interactive Power BI dashboard analyzing $2B+ in Walmart sales across 45 stores (2010-2012). 
+22  Features: YoY trends, holiday impact analysis, store performance, and unemployment correlation.
+23  
+24  **Tools Used:** Power BI | DAX | Power Query | Data Visualization
 
 ### 🔗 لينك المشروع على لينكد إن:
 [اضغط هنا لمشاهدة البوست](حط_لينك_البوست_بتاعك_هنا)
